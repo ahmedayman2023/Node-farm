@@ -1,0 +1,5 @@
+{
+  "singleQuote": false,
+  // علشان يوسع السطر ما يبقاش
+  "printWidth": 120
+}
